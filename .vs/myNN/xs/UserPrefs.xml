@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{359B3FA0-0491-424F-ADE0-85D586435A2F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="myNN/Program.cs">
+    <Files>
+      <File FileName="myNN/Program.cs" Line="18" Column="15" />
+      <File FileName="myNN/NN.cs" Line="718" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.myNN PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

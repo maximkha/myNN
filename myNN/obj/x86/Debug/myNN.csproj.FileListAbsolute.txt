@@ -1,0 +1,6 @@
+/Users/maxkhanov/Projects/myNN/myNN/bin/Debug/myNN.exe
+/Users/maxkhanov/Projects/myNN/myNN/bin/Debug/myNN.pdb
+/Users/maxkhanov/Projects/myNN/myNN/obj/x86/Debug/myNN.csproj.CoreCompileInputs.cache
+/Users/maxkhanov/Projects/myNN/myNN/obj/x86/Debug/myNN.exe
+/Users/maxkhanov/Projects/myNN/myNN/obj/x86/Debug/myNN.pdb
+/Users/maxkhanov/Projects/myNN/myNN/obj/x86/Debug/myNN.csprojAssemblyReference.cache
